@@ -1,5 +1,4 @@
-# tesina
-Identiﬁcación de un ambiente determinista o estocástico dentro de un videojuego
+# Identiﬁcación de un ambiente determinista o estocástico dentro de un videojuego
 
 El archivo donde se encuentra el codigo para la identificacion entre un ambiente u otro esta en la siguiente ruta:
 GVGAI-JavaClient/src/test/Agent.java
